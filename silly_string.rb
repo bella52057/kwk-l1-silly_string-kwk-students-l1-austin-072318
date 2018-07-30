@@ -1,7 +1,6 @@
 
-# Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "toshiba"
 
 puts "My favorite word is #{your_favorite_word}"
 
@@ -9,7 +8,7 @@ puts "My favorite word is #{your_favorite_word}"
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 
-puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
+puts "MY FAVORITE WORD IS #toshiba.Capitalize
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
@@ -17,7 +16,7 @@ phrase = "IM NOT SHOUTING"
 
 lowercased_phrase = phrase # Put a . after phrase and use a String method.
 
-puts lowercased_phrase
+puts IM NOT SHOUTING.downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
@@ -25,7 +24,7 @@ big_word = "supercalifragilisticexpialidocious"
 
 letter_count = big_word # Put a . after big_word and use a String method.
 
-puts "There are #{letter_count} in #{big_word}"
+puts "There are #{32} in #{supercalifragilisticexpialidocious}"
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
@@ -39,7 +38,7 @@ puts "There are now #{new_letter_count} in #{bigger_word}"
 
 proper_sentence = "i really like programming." # Put a . after the string to capitalize it properly.
 
-puts proper_sentence
+puts prope
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"
